@@ -1,0 +1,113 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Pretendard", "Noto Sans KR", system-ui, sans-serif;
+  
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  
+  --radius-lg: var(--radius);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-sm: calc(var(--radius) - 4px);
+}
+
+:root {
+  /* Warm & Emotional Palette */
+  --background: 45 60% 98%;    /* #FFFBF0 - Warm Cream */
+  --foreground: 0 5% 25%;      /* #443E3E - Soft Coffee */
+  
+  --card: 45 60% 100%;
+  --card-foreground: 0 5% 25%;
+  
+  --popover: 45 60% 98%;
+  --popover-foreground: 0 5% 25%;
+  
+  --primary: 350 89% 60%;      /* #F43F5E - Rose 500 */
+  --primary-foreground: 0 0% 100%;
+  
+  --secondary: 0 84% 81%;      /* #FCA5A5 - Rose 300 */
+  --secondary-foreground: 0 5% 25%;
+  
+  --muted: 30 20% 94%;         /* Warm Muted */
+  --muted-foreground: 0 5% 45%;
+  
+  --accent: 45 93% 85%;        /* #FDE68A - Amber 200 */
+  --accent-foreground: 0 5% 25%;
+  
+  --destructive: 0 84% 60%;
+  --destructive-foreground: 0 0% 100%;
+  
+  --border: 30 15% 90%;
+  --input: 30 15% 90%;
+  --ring: 350 89% 60%;
+  
+  --radius: 1rem;
+}
+
+/* Dark mode - softened for emotional feel */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: 0 5% 10%;
+    --foreground: 45 20% 90%;
+    
+    --card: 0 5% 12%;
+    --card-foreground: 45 20% 90%;
+    
+    --popover: 0 5% 10%;
+    --popover-foreground: 45 20% 90%;
+    
+    --primary: 350 89% 65%;
+    --primary-foreground: 0 0% 100%;
+    
+    --secondary: 0 5% 20%;
+    --secondary-foreground: 45 20% 90%;
+    
+    --muted: 0 5% 15%;
+    --muted-foreground: 0 5% 65%;
+    
+    --accent: 350 30% 20%;
+    --accent-foreground: 45 20% 90%;
+    
+    --destructive: 0 62% 30%;
+    --destructive-foreground: 45 20% 90%;
+    
+    --border: 0 5% 20%;
+    --input: 0 5% 20%;
+    --ring: 350 89% 65%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+    font-feature-settings: "rlig" 1, "calt" 1;
+  }
+}

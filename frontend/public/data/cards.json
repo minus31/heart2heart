@@ -1,0 +1,176 @@
+{
+  "decks": [
+    {
+      "id": "deck-001",
+      "theme": "Dreams & Possibilities",
+      "description": "What if? Discovering my ideals and true desires through hypothetical scenarios",
+      "cards": [
+        {
+          "id": "card-001",
+          "question": "Given the choice of anyone in the world, whom would you want as a dinner guest?"
+        },
+        {
+          "id": "card-002",
+          "question": "Would you like to be famous? In what way?"
+        },
+        {
+          "id": "card-003",
+          "question": "What would constitute a 'perfect' day for you?"
+        },
+        {
+          "id": "card-004",
+          "question": "If you were able to live to the age of 90 and retain either the mind or body of a 30-year-old for the last 60 years of your life, what would you want?"
+        },
+        {
+          "id": "card-005",
+          "question": "If you could wake up tomorrow having gained any one quality or ability, what would it be?"
+        },
+        {
+          "id": "card-006",
+          "question": "If a crystal ball could tell you the truth about yourself, your life, the future or anything else, what would you want to know?"
+        },
+        {
+          "id": "card-007",
+          "question": "Is there something that you've dreamed of doing for a long time? Why haven't you done it?"
+        },
+        {
+          "id": "card-008",
+          "question": "What is the greatest accomplishment of your life?"
+        }
+      ]
+    },
+    {
+      "id": "deck-002",
+      "theme": "My Story",
+      "description": "The me in my memories, my upbringing, and the moments that made me who I am today",
+      "cards": [
+        {
+          "id": "card-009",
+          "question": "Before making a telephone call, do you ever rehearse what you are going to say? Why?"
+        },
+        {
+          "id": "card-010",
+          "question": "When did you last sing to yourself? To someone else?"
+        },
+        {
+          "id": "card-011",
+          "question": "Do you have a secret hunch about how you will die?"
+        },
+        {
+          "id": "card-012",
+          "question": "For what in your life do you feel most grateful?"
+        },
+        {
+          "id": "card-013",
+          "question": "If you could change anything about the way you were raised, what would it be?"
+        },
+        {
+          "id": "card-014",
+          "question": "Take four minutes and tell your partner your life story in as much detail as possible."
+        },
+        {
+          "id": "card-015",
+          "question": "What is your most treasured memory?"
+        },
+        {
+          "id": "card-016",
+          "question": "What is your most terrible memory?"
+        },
+        {
+          "id": "card-017",
+          "question": "How close and warm is your family? Do you feel your childhood was happier than most other people's?"
+        },
+        {
+          "id": "card-018",
+          "question": "How do you feel about your relationship with your mother?"
+        }
+      ]
+    },
+    {
+      "id": "deck-003",
+      "theme": "Core Values",
+      "description": "What truly matters in life, my beliefs, and priorities",
+      "cards": [
+        {
+          "id": "card-019",
+          "question": "What do you value most in a friendship?"
+        },
+        {
+          "id": "card-020",
+          "question": "If you knew that in one year you would die suddenly, would you change anything about the way you are now living? Why?"
+        },
+        {
+          "id": "card-021",
+          "question": "What does friendship mean to you?"
+        },
+        {
+          "id": "card-022",
+          "question": "What roles do love and affection play in your life?"
+        },
+        {
+          "id": "card-023",
+          "question": "Is there something you feel is too serious to be joked about?"
+        },
+        {
+          "id": "card-024",
+          "question": "If you were to die this evening with no opportunity to communicate with anyone, what would you most regret not having told someone? Why haven't you told them yet?"
+        },
+        {
+          "id": "card-025",
+          "question": "Your house catches fire. After saving your loved ones and pets, you have time to safely make a final dash to save any one item. What would it be? Why?"
+        },
+        {
+          "id": "card-026",
+          "question": "Of all the people in your family, whose death would you find most disturbing? Why?"
+        }
+      ]
+    },
+    {
+      "id": "deck-004",
+      "theme": "About Us",
+      "description": "Words spoken directly to each other, the deepest conversations sharing vulnerability",
+      "cards": [
+        {
+          "id": "card-027",
+          "question": "Name three things you and your partner appear to have in common."
+        },
+        {
+          "id": "card-028",
+          "question": "Alternate sharing something you consider a positive characteristic of your partner. Share a total of five items."
+        },
+        {
+          "id": "card-029",
+          "question": "Make three true \"we\" statements each. For instance, \"We are both in this room feeling...\""
+        },
+        {
+          "id": "card-030",
+          "question": "Complete this sentence: \"I wish I had someone with whom I could share...\""
+        },
+        {
+          "id": "card-031",
+          "question": "If you were going to become a close friend with your partner, please share what would be important for him or her to know."
+        },
+        {
+          "id": "card-032",
+          "question": "Tell your partner what you like about them; be very honest, saying things you might not say to someone you've just met."
+        },
+        {
+          "id": "card-033",
+          "question": "Share with your partner an embarrassing moment in your life."
+        },
+        {
+          "id": "card-034",
+          "question": "When did you last cry in front of another person? By yourself?"
+        },
+        {
+          "id": "card-035",
+          "question": "Tell your partner something that you like about them already."
+        },
+        {
+          "id": "card-036",
+          "question": "Share a personal problem and ask your partner's advice on how he or she might handle it. Also, ask your partner to reflect back to you how you seem to be feeling about the problem you have chosen."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+[
+  {
+    "id": "conv-1740700800000",
+    "deckId": "deck-001",
+    "cardId": "card-003",
+    "question": "What would constitute a 'perfect' day for you?",
+    "createdAt": "2026-02-26T10:00:00.000Z",
+    "speakerAName": "YeSeung",
+    "speakerBName": "Hyun",
+    "transcript": [
+      {
+        "speaker": "A",
+        "text": "For me, a perfect day would start slow. Waking up without an alarm, having coffee by the window while it's raining outside. No rush."
+      },
+      {
+        "speaker": "B",
+        "text": "Oh interesting, I'd actually want to start early. Like, 6am jog, then a big breakfast. I feel best when I've already done something productive by 9am."
+      },
+      {
+        "speaker": "A",
+        "text": "That sounds exhausting to me honestly. But I get it. I think for me the afternoon would be spent at a bookstore or a café just reading. Maybe with you though."
+      },
+      {
+        "speaker": "B",
+        "text": "I'd be okay with that. The bookstore part. As long as we get to eat something good for dinner. Like proper Korean BBQ with friends maybe."
+      },
+      {
+        "speaker": "A",
+        "text": "Yes! And then end the night watching a movie at home. Not going out late. Just quiet. I think a perfect day is a lot about the pace, not the activities."
+      },
+      {
+        "speaker": "B",
+        "text": "That's a good point. I think what makes it perfect for me is feeling like I didn't waste it. I get anxious if I didn't do at least one meaningful thing."
+      },
+      {
+        "speaker": "A",
+        "text": "Meaningful doesn't have to mean productive though. For me, having a real conversation like this one counts as meaningful."
+      },
+      {
+        "speaker": "B",
+        "text": "You're right. I think I'm still learning that. That rest and connection are also things worth doing."
+      }
+    ],
+    "summaries": {
+      "speakerA": "YeSeung's perfect day is centered around slowness and presence — a quiet morning with coffee, an afternoon in a bookstore or café, and a cozy evening at home with a movie. She values emotional connection and meaningful conversation over productivity, and sees rest as inherently worthwhile.",
+      "speakerB": "Hyun's perfect day starts with an early morning run and a productive beginning. He feels best when he accomplishes something tangible. By the end of the conversation, he acknowledged that connection and rest can also be meaningful — reflecting a tension between his drive for productivity and his partner's perspective on presence.",
+      "overall": "This conversation revealed a thoughtful contrast between two different rhythms of life. YeSeung leans toward slowness, emotional presence, and quiet enjoyment, while Hyun gravitates toward early starts and accomplishment. Despite the difference, both showed genuine curiosity about each other's values, and Hyun showed openness to redefining what makes a day meaningful."
+    }
+  },
+  {
+    "id": "conv-1740787200000",
+    "deckId": "deck-001",
+    "cardId": "card-008",
+    "question": "What is the greatest accomplishment of your life?",
+    "createdAt": "2026-02-27T10:00:00.000Z",
+    "speakerAName": "YeSeung",
+    "speakerBName": "Hyun",
+    "transcript": [
+      {
+        "speaker": "A",
+        "text": "This is a hard one. I keep going back and forth. Professionally, getting into the graduate program was huge. But personally... I think it was when I helped my younger sister through her depression. That took everything out of me."
+      },
+      {
+        "speaker": "B",
+        "text": "I didn't know about your sister. That must have been really tough."
+      },
+      {
+        "speaker": "A",
+        "text": "It was. Two years of just being there, every phone call, every hospital visit. I grew up so much during that time. I became someone I actually respect."
+      },
+      {
+        "speaker": "B",
+        "text": "Wow. That's the kind of accomplishment nobody sees, right? No award for it."
+      },
+      {
+        "speaker": "A",
+        "text": "Exactly. And it changed how I see strength. It's not about what you achieve. It's about who you become in the hard moments."
+      },
+      {
+        "speaker": "B",
+        "text": "Mine feels small now, but I'll share it. Running my first marathon. I'd never been athletic. I started training at 27, totally from scratch. Finished it in 4 hours 22 minutes."
+      },
+      {
+        "speaker": "A",
+        "text": "That's not small at all! That's proof you can become someone completely new."
+      },
+      {
+        "speaker": "B",
+        "text": "That's how I felt crossing the line. Like I proved something to myself I'd always doubted. That I could stick to something hard and finish it."
+      },
+      {
+        "speaker": "A",
+        "text": "It sounds like for both of us, the accomplishment is really about what we found out about ourselves."
+      },
+      {
+        "speaker": "B",
+        "text": "Yeah. We both had to discover we were more capable than we thought."
+      }
+    ],
+    "summaries": {
+      "speakerA": "YeSeung's greatest accomplishment is supporting her younger sister through a two-year battle with depression. She values this above professional achievements because it transformed who she is — teaching her that true strength lies in being present in hard moments, not in external recognition.",
+      "speakerB": "Hyun's greatest accomplishment is completing his first marathon at age 27, having never been athletic before. For him, the victory was deeply personal — proving to himself that he could commit to something difficult and see it through to the end.",
+      "overall": "Both speakers shared accomplishments that were deeply personal and defined by internal transformation rather than external recognition. YeSeung's story of supporting her sister and Hyun's marathon both reveal people who discovered their own resilience. The conversation deepened with a shared realization: their proudest moments were about finding out who they truly are when tested."
+    }
+  },
+  {
+    "id": "conv-1740873600000",
+    "deckId": "deck-002",
+    "cardId": "card-015",
+    "question": "What is your most treasured memory?",
+    "createdAt": "2026-02-28T10:00:00.000Z",
+    "speakerAName": "YeSeung",
+    "speakerBName": "Hyun",
+    "transcript": [
+      {
+        "speaker": "B",
+        "text": "Without a doubt, it's a camping trip I took with my dad when I was eleven. Just the two of us. He wasn't the type to talk much, but that weekend he told me stories about his own childhood I'd never heard."
+      },
+      {
+        "speaker": "A",
+        "text": "Like what kind of stories?"
+      },
+      {
+        "speaker": "B",
+        "text": "About growing up poor. About the specific moment he decided he wanted to be an engineer. About failing his entrance exam the first time. He was so human that weekend. Not just my dad, but a person with a story."
+      },
+      {
+        "speaker": "A",
+        "text": "That's beautiful. I think the moments where we see our parents as full humans are some of the most powerful."
+      },
+      {
+        "speaker": "B",
+        "text": "Exactly. And we caught nothing fishing, by the way. But I still think about that trip constantly."
+      },
+      {
+        "speaker": "A",
+        "text": "Mine is actually a very ordinary moment. I was maybe eight. My grandmother was making 떡국 in her kitchen and she let me help shape the rice cakes. I still remember exactly what her hands looked like. How she smelled. She passed away three years ago."
+      },
+      {
+        "speaker": "B",
+        "text": "Oh, YeSeung..."
+      },
+      {
+        "speaker": "A",
+        "text": "It's okay. I'm glad I have that memory. It's like... the memory is the version of her I keep with me. Sometimes I make 떡국 myself and it feels like I'm calling her somehow."
+      },
+      {
+        "speaker": "B",
+        "text": "I never thought about memories that way. That they can be a form of staying connected to someone."
+      },
+      {
+        "speaker": "A",
+        "text": "They are. They have to be."
+      }
+    ],
+    "summaries": {
+      "speakerA": "YeSeung's most treasured memory is an ordinary afternoon in her grandmother's kitchen at age eight, shaping rice cakes together. With her grandmother now gone, this memory has become a living connection — she recreates the moment by cooking 떡국, which she describes as a way of staying close to someone she's lost.",
+      "speakerB": "Hyun's most treasured memory is a camping trip with his father at age eleven, where his typically reserved father opened up and shared personal stories Hyun had never heard. The trip didn't yield a single fish, but it gave Hyun a rare glimpse of his father as a full human being — with failures, dreams, and a history of his own.",
+      "overall": "Both memories center on quiet intimacy with a parent or grandparent — moments of unexpected closeness or vulnerability that became foundational. The conversation was tender and honest, with both speakers reflecting on how memory functions as connection and identity. YeSeung's insight that memories can be a form of 'calling someone' clearly moved Hyun and offered him a new way of thinking about the people he loves."
+    }
+  },
+  {
+    "id": "conv-1740960000000",
+    "deckId": "deck-003",
+    "cardId": "card-019",
+    "question": "What do you value most in a friendship?",
+    "createdAt": "2026-02-28T14:00:00.000Z",
+    "speakerAName": "YeSeung",
+    "speakerBName": "Hyun",
+    "transcript": [
+      {
+        "speaker": "A",
+        "text": "Consistency, I think. I've had friendships that were really intense and then just... faded. Now what I look for is someone who shows up over time. Not perfectly, but consistently."
+      },
+      {
+        "speaker": "B",
+        "text": "Like, low maintenance but high trust?"
+      },
+      {
+        "speaker": "A",
+        "text": "Exactly. We don't have to talk every day. But when something big happens, we're the first call."
+      },
+      {
+        "speaker": "B",
+        "text": "I think for me it's honesty. Not brutal honesty for the sake of it, but like... I need friends who will tell me when I'm wrong. Not just agree with me to make me feel good."
+      },
+      {
+        "speaker": "A",
+        "text": "Have you lost friends over that? Someone being too honest or not honest enough?"
+      },
+      {
+        "speaker": "B",
+        "text": "Yeah, one friendship ended because I realized he'd been just nodding along for years. When I asked him directly once, he admitted he didn't agree with a choice I'd made three years earlier. I was more hurt that he never said anything."
+      },
+      {
+        "speaker": "A",
+        "text": "That makes sense. The silence was the betrayal, not the disagreement."
+      },
+      {
+        "speaker": "B",
+        "text": "Exactly. And you? Have you had friendships that faded in the way you described?"
+      },
+      {
+        "speaker": "A",
+        "text": "A few. College friendships mostly. Very intense for a season, then nothing. I think we mistook proximity for depth. Once we were in different cities, there wasn't actually that much holding us together."
+      },
+      {
+        "speaker": "B",
+        "text": "I think the friendships worth keeping are the ones that can survive distance. Physical and emotional."
+      },
+      {
+        "speaker": "A",
+        "text": "Yes. And I think for me, I'm more selective now than I used to be. Not in a cold way. Just more intentional about where I put my energy."
+      }
+    ],
+    "summaries": {
+      "speakerA": "YeSeung values consistency above all else in friendship — not intensity or frequency, but the quiet reliability of someone who shows up when it matters. She's learned to distinguish proximity from genuine depth, and has become more intentional (though not cold) about where she invests her energy.",
+      "speakerB": "Hyun values honesty most in friendship — specifically, friends who are willing to challenge him rather than simply validate him. A past friendship ended not over a disagreement, but over the discovery that his friend had been silently disagreeing for years. For Hyun, honesty is a form of respect.",
+      "overall": "The conversation explored two complementary views of friendship: YeSeung's emphasis on consistency and Hyun's emphasis on honesty. Both values point to the same underlying need — authenticity. A friendship without consistency lacks foundation; a friendship without honesty lacks trust. The two speakers seem to both offer and need these qualities from each other, making this an implicitly reflective conversation about their own relationship."
+    }
+  }
+]
